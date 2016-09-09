@@ -1,0 +1,41 @@
+001. Spark를 설치해서 무작정 돌려보자.
+http://tomining.tistory.com/2
+
+
+Hasoop on Windows with Eclipse
+http://v-lad.org/Tutorials/Hadoop/20%20-%20upload%20data.html
+
+Build, Install, Configure and Run Apache Hadoop 2.2.0 in Microsoft Windows OS
+http://www.srccodes.com/p/article/38/build-install-configure-run-apache-hadoop-2.2.0-microsoft-windows-os
+
+
+Install Hadoop 2.5.1 on Windows 7 - 64Bit Operating System
+http://harishshan.blogspot.kr/2014/10/install-hadoop-251-on-windows-7-64bit.html
+
+
+
+Hadoop “Unable to load native-hadoop library for your platform” warning
+http://stackoverflow.com/questions/19943766/hadoop-unable-to-load-native-hadoop-library-for-your-platform-warning
+
+
+Cygwin
+https://cygwin.com/install.html
+
+
+하둡 설치 및 자료
+http://www.slideshare.net/TaeYoungLee1/20141029-25-hive
+
+
+Spark 다운로드
+http://spark.apache.org/downloads.html
+
+
+
+
+-- Hadoop 설치 --------------------------------------------------------------------------------
+windows 에서 hadoop 설치
+http://khlee03.tistory.com/entry/windows-%EC%97%90%EC%84%9C-hadoop-%EC%84%A4%EC%B9%98
+
+
+Windows 7에 Hadoop 설치하기 (Clear : 이 바로 윗쪽의 것이 설치하고 Build하는과정은 더 나은듯 함)
+http://www.rudaks.co.kr/post/1283

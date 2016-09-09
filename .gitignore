@@ -1,4 +1,5 @@
 *.class
+.history/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -33,3 +34,8 @@ Thumbs.db
 obj/
 [Rr]elease*/
 _ReSharper*/
+
+#ActiveMQ
+[Kk]aha*/
+
+*.zip

@@ -1,0 +1,6 @@
+
+ 설정을 변경하여 Local의 것을 보게 만드는 경우
+jdbc:hsqldb:E:\200.Spark\SparkWorkSpace\HadoopSample\hsqldb\URLAccess;shutdown=true;
+
+처음에 설정되어 있는 Sample과 동일하게 하는 경우
+jdbc:hsqldb:E:\tmp\URLAccess

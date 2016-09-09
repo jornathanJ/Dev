@@ -1,0 +1,8 @@
+직접 경로를 적어도 되고 
+E:\200.Spark\SparkWorkSpace\Hadoop\Input\Sample.txt
+E:\200.Spark\SparkWorkSpace\Hadoop\output\result
+
+
+아래와 같은 형식으로 접근 해도 되고 
+hdfs://localhost:9000/user/jornathan/readme.txt
+hdfs://localhost:9000/user/Jornathan/result5.txt
